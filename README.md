@@ -51,7 +51,7 @@
 
 ## 📊 Stats
 ![](https://github.com/awonesz/awonesz/blob/output/snake.svg) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awonesz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aevuum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🪻 Follow me
