@@ -1,4 +1,4 @@
-![Header](https://github.com/awonesz/awonesz/blob/main/assets/4235d1c0d335909dabc9ccb693d44505.gif)
+![Header](https://github.com/awonesz/awonesz/blob/main/assets/f083f63dfcf3bde7060e4e007311f67f.gif)
 
 
 ## ✒️ Hello, my dear friend! I'm a beginner (junior-junior+) developer. My main area of expertise is frontend development, although I also have some experience with backend. I use Arch btw.
