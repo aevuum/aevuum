@@ -50,7 +50,7 @@
 
 ## 📊 Stats
 ![](https://github.com/aevuum/aevuum/blob/output/snake.svg) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aevuum)]
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aevuum)
 
 
 ## 🪻 Follow me
