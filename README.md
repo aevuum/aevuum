@@ -1,6 +1,6 @@
 ![Header](https://github.com/aevuum/aevuum/blob/main/assets/f083f63dfcf3bde7060e4e007311f67f.gif)
 
-## ✒️ Hello, my dear friend! I'm a beginner (junior-junior+) developer. My main area of expertise is frontend development, although I also have some experience with backend. I use Arch btw.
+## 🐈‍⬛ meow
 
 
 
