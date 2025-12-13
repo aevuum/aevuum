@@ -1,8 +1,7 @@
 ![Header](https://github.com/aevuum/aevuum/blob/main/assets/cd83e34992570d14493c163c3ff3d42d.gif)
 
 
-
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&color=6704F7&center=true&multiline=true&width=435&lines=%40profile;+%F0%9F%90%88%E2%80%8D%E2%AC%9B+aevuum+dev+%7C+Fullstack+Developer+%7C+%F0%9F%94%AE)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?duration=3000&pause=50&color=6704F7&background=FF5F5800&center=true&multiline=true&lines=%40profile;+%F0%9F%90%88%E2%80%8D%E2%AC%9B+aevuum+dev+%7C+Fullstack+Developer+%7C+%F0%9F%94%AE)](https://readme-typing-svg.demolab.com/demo/?duration=3000&pause=50&color=6704F7&background=FF5F5800&center=true&multiline=true&lines=%40profile;+%F0%9F%90%88%E2%80%8D%E2%AC%9B+aevuum+dev+%7C+Fullstack+Developer+%7C+%F0%9F%94%AE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&color=6704F7&background=FF5F5800&center=true&multiline=true&width=435&lines=%40profile;+%F0%9F%90%88%E2%80%8D%E2%AC%9B+aevuum+dev+%7C+Fullstack+Developer+%7C+%F0%9F%94%AE)](https://git.io/typing-svg)
 
 
 
