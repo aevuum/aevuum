@@ -1,6 +1,7 @@
 ![Header](https://github.com/aevuum/aevuum/blob/main/assets/f083f63dfcf3bde7060e4e007311f67f.gif)
 
-## 🐈‍⬛ meow
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=50&color=6704F7&width=435&lines=%40profile;+%F0%9F%90%88%E2%80%8D%E2%AC%9B+aevuum+dev+%7C+Fullstack+Developer+%7C+%F0%9F%94%AE)](https://git.io/typing-svg)
 
 
 
